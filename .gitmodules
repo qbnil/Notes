@@ -1,0 +1,18 @@
+[submodule "Notes"]
+	path = Notes
+	url = https://github.com/0xd4y/Notes.git
+[submodule "Learn-C"]
+	path = Learn-C
+	url = https://github.com/Sahil-4/Learn-C.git
+[submodule "vim-cheatsheet"]
+	path = vim-cheatsheet
+	url = https://github.com/ibhagwan/vim-cheatsheet.git
+[submodule "Cybersecurity-notes-"]
+	path = Cybersecurity-notes-
+	url = https://github.com/anishkumarroy/Cybersecurity-notes-.git
+[submodule "Cyber-Security"]
+	path = Cyber-Security
+	url = https://github.com/luisrodrigues154/Cyber-Security.git
+[submodule "C_learning_hub"]
+	path = C_learning_hub
+	url = https://github.com/IsaMarvin/C_learning_hub.git
